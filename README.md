@@ -20,6 +20,6 @@ While MGZON Pro features advanced functionalities, seamless integration, and cus
 | Lifetime Free Updates            | Included                       | Included                             |
 
 
-#### [🚀 Live Demo](https://ecommerce-template-five-mu.vercel.app/)
+#### [🚀 Live Demo](https://mgzon-template.vercel.app/)
 
-#### [🌐 Visit Website](https://ecommerce-template-five-mu.vercel.app/)
+#### [🌐 Visit Website](https://mgzon-template.vercel.app/)
